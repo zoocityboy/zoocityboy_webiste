@@ -5,8 +5,8 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://zoocityboy.github.io/",
-  base: "zoocityboy.github.io",
+  site: "https://zoocityboy.space/",
+  // base: "zoocityboy.github.io",
   trailingSlash: "never",
   integrations: [
     starlight({
